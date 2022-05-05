@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5718116091026546857
+  m_GuidHigh: 999605104663615401
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5540497834511636407
+      m_GuidHigh: 10593013503259904659
+    m_SerializedTextureGuid:
+      m_GuidLow: 5445978597255887074
+      m_GuidHigh: 17319833067884716474
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: one
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5598017416841405983
+      m_GuidHigh: 11424238005433291407
+    m_SerializedTextureGuid:
+      m_GuidLow: 10273925480550438335
+      m_GuidHigh: 14868022460937018264
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: two
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5602114578237745109
+      m_GuidHigh: 18118714285005233284
+    m_SerializedTextureGuid:
+      m_GuidLow: 13174299602274770349
+      m_GuidHigh: 13885704857865097930
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: three
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5499194421227594815
+      m_GuidHigh: 8707263898205960350
+    m_SerializedTextureGuid:
+      m_GuidLow: 17502148906310981630
+      m_GuidHigh: 11496083198671949177
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: four
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5486112171597070066
+      m_GuidHigh: 2798340642562133172
+    m_SerializedTextureGuid:
+      m_GuidLow: 14701119626999060513
+      m_GuidHigh: 11521775059980462536
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: potion_new1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4664795972685625075
+      m_GuidHigh: 11303395223388403111
+    m_SerializedTextureGuid:
+      m_GuidLow: 11111761369701492327
+      m_GuidHigh: 10255507618716539274
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: potion_new2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4868591353145191813
+      m_GuidHigh: 13401804949362724487
+    m_SerializedTextureGuid:
+      m_GuidLow: 10233540996109041132
+      m_GuidHigh: 3529249839415444600
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: crystalhot
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4899538885555484468
+      m_GuidHigh: 13408928201023482023
+    m_SerializedTextureGuid:
+      m_GuidLow: 4932805587383687531
+      m_GuidHigh: 16216706239493855113
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: crystalcold
+    m_Texture: {fileID: 0}
